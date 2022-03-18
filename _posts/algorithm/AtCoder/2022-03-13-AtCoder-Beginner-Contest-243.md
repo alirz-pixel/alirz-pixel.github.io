@@ -3,12 +3,13 @@ title: "[AtCoder] Beginner Contest 243 (A, B, C)"
 excerpt: "링크 : https://atcoder.jp/contests/abc243"
 
 categories: 
- - Algorithm
+ - AtCoder
 tags:
  - [AtCoder, Contet]
 
 toc: true
 toc_sticky: true
+sidebar_main: true
 
 date: 2022-03-13
 last_modified_at: 2022-03-13
